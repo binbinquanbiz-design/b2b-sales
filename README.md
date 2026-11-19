@@ -1,1 +1,1 @@
-# b2b-sales
+# b2bsales
